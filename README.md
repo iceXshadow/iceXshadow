@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭I'm currenty working on my Portfolio<br>I'm looking to collaborate on Web-Dev and UI/UX projects
+- 🔭I'm currenty working on my Portfolio
+- 🪶I'm looking to collaborate on Web-Dev and UI/UX projects
 - 🌱 I’m currently learning ...Front-end technologies like CSS and Js and Figma
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Instagram - @devxicyy
