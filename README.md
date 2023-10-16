@@ -1,6 +1,7 @@
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)
 <h1 align="center">Hi 👋, I'm Saket Rathi</h1>
 <h3 align="center">A passionate UI/UX designer and frontend developer</h3>
-
+<img align="right" alt="Coding" width="400" src="">
 
 - 🌱 I’m currently learning **React Js, Responsive web design**
 
