@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+iceXshadow!;" />
 </h1>
 
-<h3 align="center">A passionate UI/UX designer</h3>
+<h3 align="center">A passionate UI/UX designer | Frontend Developer</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **organization website**
  
- 🌱 I’m currently learning **React Js, Javascript, Spline**
+ 🌱 I’m currently learning **React Js, TypeScript, Spline**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
