@@ -51,6 +51,12 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ---
 
+<div align="center">
+  <img src="https://holopin.me/icexshadow" alt="Holopin Badges" />
+</div>
+
+---
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;+Let's+create+something+amazing+together!" alt="Outro Typing Animation" />
 </h3>
