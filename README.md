@@ -1,7 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iceXshadow.iceXshadow" />
-
+<!---
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iceXshadow.iceXshadow" />
+--->
 <div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1FM7nJkGGMEgn-SwRoq8hYzcisVgx94F0" alt="Aesthetic Banner" width="100%" />
+    <img src="https://drive.google.com/uc?export=view&id=1FM7nJkGGMEgn-SwRoq8hYzcisVgx94F0" alt="Aesthetic Banner" style="width: 100%; height: 60vh; object-fit: cover;" />
 </div>
 
 <h1 align="center">
