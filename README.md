@@ -1,46 +1,55 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iceXshadow.iceXshadow" />
 
+<div align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1FM7nJkGGMEgn-SwRoq8hYzcisVgx94F0" alt="Aesthetic Banner" width="100%" />
+</div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+iceXshadow!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+iceXshadow!;" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">A passionate UI/UX designer | Frontend Developer</h3>
+<h3 align="center">Creative Developer | Blockchain Explorer | Frontend Wizard | UI/UX Designer ✨</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **organization website**
- 
- 🌱 I’m currently learning **React Js, TypeScript, Spline**
+### 👋 About Me
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
- 
+I am a **versatile developer and designer** passionate about creating impactful digital solutions. With a strong foundation in **React.js** and the **MERN Stack**, I am now diving into the exciting realms of **Next.js** and **blockchain technology**. I thrive on innovation and collaboration to bring ideas to life with modern technologies.
+
+---
+
+### 🔧 What I’m Working On  
+- 🚀 Exploring **blockchain development** and decentralized technologies  
+- 🌱 Building projects with **Next.js** to enhance scalability and performance  
+- 💡 Collaborating on creative, user-centric solutions  
+
+---
+
+### ⚡ Fun Fact  
+> *"Part of the journey is the end." – Tony Stark, Avengers: Endgame*
+
+---
+
+### 📬 Let's Connect!  
 <div align="center"> 
-  <a href="devxicy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:devxicy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://linkedin.com/in/saket-rathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+### ⚒️ My Tech Stack  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwindcss,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,c,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mongodb,typescript,vscode,github,figma" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,c,solidity" alt="Languages and Blockchain" />
 </div>
 
-<br/>
-<hr/>
+---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;+Let's+create+something+amazing+together!" alt="Outro Typing Animation" />
 </h3>
-
-[![An image of @icexshadow's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/icexshadow)](https://holopin.io/@icexshadow)
