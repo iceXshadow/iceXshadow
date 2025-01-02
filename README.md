@@ -3,8 +3,13 @@
 --->
 <div align="center">
 <!--     <img src="https://drive.google.com/uc?export=view&id=1FM7nJkGGMEgn-SwRoq8hYzcisVgx94F0" alt="Aesthetic Banner" style="width: 100%; height: 60vh; object-fit: cover;" /> -->
-    <img src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" alt="Aesthetic Banner" style="width: 100vw; height: 50vh; object-fit: cover;" />
+<!--     <img src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" alt="Aesthetic Banner" style="width: 100vw; height: 50vh; object-fit: cover;" /> -->
 <!--     <img src="https://i.pinimg.com/originals/f9/d9/6b/f9d96ba98d8701d3b75c593c3ecba388.gif" alt="Aesthetic Banner" style="width: 100%; height: 50vh; object-fit: cover;" /> -->
+    <img 
+      src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" 
+      alt="Aesthetic Banner" 
+      style="width: 100%; height: auto;" 
+    />
 </div>
 
 <h1 align="center">
