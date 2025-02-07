@@ -33,8 +33,10 @@ I am a **versatile developer and designer** passionate about creating impactful 
 
 ---
 
-### ⚡ Fun Fact  
+### ⚡ Now Playing  
 > *"Part of the journey is the end." – Tony Stark, Avengers: Endgame*
+>
+> [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mguigm2ha4c5bpzz2t3irag3a4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mguigm2ha4c5bpzz2t3irag3a4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=3d84e1&bar_color_cover=true)]]
 
 ---
 
