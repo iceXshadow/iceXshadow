@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+iceXshadow!;" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">✨ Creative Developer | Blockchain Explorer | Frontend Wizard | UI/UX Designer ✨</h3>
+<h3 align="center">✨ Full Stack Developer | Cloud Explorer | Frontend Wizard | UI/UX Designer ✨</h3>
 
 ---
 
@@ -27,7 +27,7 @@ I am a **versatile developer and designer** passionate about creating impactful 
 ---
 
 ### 🔧 What I’m Working On  
-- 🚀 Exploring **blockchain development** and decentralized technologies  
+- 🚀 Exploring **cloud development** and related technologies  
 - 🌱 Building projects with **Next.js** to enhance scalability and performance  
 - 💡 Collaborating on creative, user-centric solutions  
 
@@ -52,7 +52,7 @@ I am a **versatile developer and designer** passionate about creating impactful 
 ### ⚒️ My Tech Stack  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mongodb,typescript,vscode,github,figma" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,c,solidity" alt="Languages and Blockchain" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,c" alt="Languages" />
 </div>
 
 ---
