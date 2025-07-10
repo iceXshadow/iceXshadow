@@ -34,7 +34,7 @@ I am a **versatile developer and designer** passionate about creating impactful 
     <table>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=iceXshadow&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+                <img src="https://github-readme-stats-icevault014.vercel.app/api?username=iceXshadow&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
             </td>
             <td>
                 <img src="https://nirzak-streak-stats.vercel.app/?user=iceXshadow&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak Stats" />
