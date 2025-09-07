@@ -1,14 +1,13 @@
-<!--
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" 
+    src="https://raw.githubusercontent.com/iceXshadow/iceXshadow/main/assets/github-banner.png" 
     alt="Banner" 
     width="100%" 
     style="border-radius: 12px;"
   />
 </div>
-## 🛠 My Tech Stack
---->
+
+---
 
 <div align="center" style="
   display: flex;
