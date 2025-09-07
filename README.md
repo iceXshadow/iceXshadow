@@ -7,9 +7,8 @@
     style="border-radius: 12px;"
   />
 </div>
-
---->
 ## 🛠 My Tech Stack
+--->
 
 <div align="center" style="
   display: flex;
@@ -47,6 +46,7 @@
 </div>
 
 ---
+<!--
 
 ## 📈 My GitHub Insights
 
@@ -63,9 +63,9 @@
   </table>
 </div>
 
----
+--->
 
-## 🎖 Achievements & Badges
+## HacktoberFest
 
 <div align="center">
   <img src="https://holopin.me/icexshadow" alt="Holopin Badges" />
