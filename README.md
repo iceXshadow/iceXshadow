@@ -7,28 +7,6 @@
   />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=70&lines=hey+there!;i'm+ice;crafting+digital+experiences..." alt="Typing SVG" />
-</h1>
-
-
-## 🪄 Who Am I?
-
-Hi, I’m **Ice** — a developer & designer passionate about building products that **blend creativity with engineering precision**.  
-I specialize in **frontend-first solutions** that scale, perform, and feel delightful to use.  
-
-Whether it’s designing pixel-perfect UI or architecting robust backends, I thrive at the intersection of **aesthetics** and **functionality**.
-
-> _"Curiosity fuels my code, and design shapes my solutions."_
-
----
-
-## 🔭 What I'm Working On
-
-- 🚀 Building high-performance web apps with **Next.js** & **modern frameworks**
-- 🌱 Exploring **cloud-native workflows** with Supabase, Firebase, and Docker
-- 🎨 Designing frictionless UX using **Framer Motion** & **shadcn/ui**
-
 ---
 
 ## 🛠 My Tech Stack
@@ -68,7 +46,6 @@ Whether it’s designing pixel-perfect UI or architecting robust backends, I thr
   <img src="https://skillicons.dev/icons?i=vercel" />
 </div>
 
-
 ---
 
 ## 📈 My GitHub Insights
@@ -84,30 +61,6 @@ Whether it’s designing pixel-perfect UI or architecting robust backends, I thr
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 🎯 My Development Philosophy
-
-> **"Design is not how it looks, but how it works."**  
-> Every project I create is rooted in three principles:
->
-> 1. **Clarity** — Every element has a purpose  
-> 2. **Performance** — Fast load, smooth animations, optimal queries  
-> 3. **Scalability** — Built to grow and adapt  
-
----
-
-## 📬 Let’s Collaborate
-
-<div align="center">
-  <a href="mailto:devxicy@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <a href="https://linkedin.com/in/saket-rathi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
 </div>
 
 ---
