@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img 
     src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" 
@@ -7,8 +8,7 @@
   />
 </div>
 
----
-
+--->
 ## 🛠 My Tech Stack
 
 <div align="center" style="
